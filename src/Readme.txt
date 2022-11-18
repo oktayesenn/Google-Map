@@ -8,4 +8,3 @@ Dashboard, Library
 Enable your google api keys
 
 ///////
-AIzaSyAMAkOw0ZycYL20N0NnsrvfWw7bI8Le9Y0
